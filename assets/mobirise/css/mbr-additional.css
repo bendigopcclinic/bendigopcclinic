@@ -1597,7 +1597,7 @@ hr {
 .cid-rY6OK2OeIu .form-control,
 .cid-rY6OK2OeIu .field-input {
   padding: 1rem 0rem;
-  background-color: #272727;
+  background-color: transparent;
   border: none;
   border-bottom: 2px solid #414141;
   color: #ffffff !important;
