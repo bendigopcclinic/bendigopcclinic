@@ -1841,9 +1841,9 @@ hr {
   color: #ffffff;
 }
 .cid-sayHVzaKmV {
-  padding-top: 210px;
-  padding-bottom: 60px;
   background-color: #101010;
+  padding-top: 7rem;
+  padding-bottom: 1rem;
 }
 .cid-sayHVzaKmV img {
   border-radius: 50%;
@@ -1875,6 +1875,9 @@ hr {
   .cid-sayHVzaKmV .card {
     margin-bottom: 3rem;
   }
+  .cid-sayHVzaKmV .review-paragraph {
+    padding-bottom: 3rem;
+  }
 }
 @media (max-width: 767px) {
   .cid-sayHVzaKmV .card-inner {
@@ -1882,6 +1885,10 @@ hr {
   }
 }
 @media (min-width: 767px) {
+  .cid-sayHVzaKmV {
+    padding-top: 210px;
+    padding-bottom: 60px;
+  }
   .cid-sayHVzaKmV .row {
     padding: 0 1rem;
   }
