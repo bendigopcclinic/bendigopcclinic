@@ -1828,7 +1828,7 @@ hr {
   padding-top: 7rem;
   padding-bottom: 1rem;
 }
-.cid-sayHVzaKmV img {
+.cid-sayHVzaKmV .user_image img {
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -1869,7 +1869,7 @@ hr {
 }
 @media (min-width: 767px) {
   .cid-sayHVzaKmV {
-    padding-top: 210px;
+    padding-top: 60px;
     padding-bottom: 60px;
   }
   .cid-sayHVzaKmV .row {
@@ -1905,6 +1905,10 @@ hr {
 .cid-sayHVzaKmV .mbr-text,
 .cid-sayHVzaKmV .link {
   color: #ffffff;
+}
+.cid-sayHVzaKmV .logo {
+  width: 100%;
+  max-width: 900px;
 }
 .cid-sayIGtGinH {
   padding-top: 45px;
