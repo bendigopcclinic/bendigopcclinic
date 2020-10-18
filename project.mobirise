@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "prices-and-fees.html",
     "theme": {
       "name": "studiom4",
       "title": "StudioM4",
@@ -1804,7 +1804,7 @@
         }
       ]
     },
-    "page2.html": {
+    "prices-and-fees.html": {
       "settings": {
         "title": "Pricing and Fees | Bendigo PC Clinic",
         "order": 1
