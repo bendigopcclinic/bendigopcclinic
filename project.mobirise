@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "e-waste.html",
     "theme": {
       "name": "studiom4",
       "title": "StudioM4",
@@ -49,7 +49,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 150,
+    "uniqCompNum": 151,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "cssOptimize": true,
@@ -3447,15 +3447,85 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#767676"
+              "color": "#000000"
+            },
+            "H3": {
+              "color": "#000000"
             }
           },
           "_name": "extContent1",
-          "_customHTML": "<section class=\"mbr-section article extСontent\" group=\"Additional Blocks\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"range\" inline title=\"Count\" name=\"listItems\" min=\"1\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\" mbr-list mbr-list-grow=\"listItems\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">01.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">What happens to the old equipment?</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Bendigo Pc Clinic will test the equipment and whatever can be used will be kept to rebuild or repurpose \n<br>\n<br>the equipment that can not be used will be taken apart and recycled correctly ensuing that there is no negative impact on the enviroment</p>\n                </div>\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">02.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Will My data be destroyed</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Bendigo PC Clinic can handle any size from your home office to a multi story organisation if you are a large organisation give us a call on 0466918633 and we will arrange a time and date with you to ensure that there is no negativew impact on your businesses day to day functions. </p>\n                </div>\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">03.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Why should i do this</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">One of the biggest reasons why is due to the cost of removal fior a business hiring a skip bin can become expensive if there is alot of equipment to dispose of. Another benifit is that it isnt going to just go straight into landfill so its good for the enviroment and everyone else! </p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article extСontent\" group=\"Additional Blocks\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#1ec5bf\" condition=\"stylizedCounters\">\n        <input type=\"range\" inline title=\"Count\" name=\"listItems\" min=\"1\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style pt-5\" mbr-list mbr-list-grow=\"listItems\">\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">01.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">What happens to the old equipment?</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">We will process all of your equipment to determine if any can be reused, refurbished or torn down and sold as parts.</p>\n                </div>\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">02.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Will my data be destroyed?</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">All storage devices will go straight back to you unless you explicitly express that you need us to destroy the data in which case we will physically destroy your hard drives so they cannot be&nbsp;</p>\n                </div>\n                <div class=\"mb-5\">\n                    <h4 class=\"counter\">03.</h4>\n                    <h3 class=\"mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Why should i do this?</h3>\n                    <p class=\"mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">Reuse, Reduce, Recycle. Our business makes an asserted attempt to keep hardware out of landfill where ever possible. In most cases we can bring your old hardware back to life for someone else who will benefit from it as much as you did.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "seBFhLQLnP",
           "_anchor": "extContent1-1a",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "mobirise4-blocks/components",
+          "_isSecondary": true,
+          "typeCompatible": "type",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card": {
+              "display": "flex",
+              "position": "relative",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              ".card-wrapper": {
+                "background": "@cardBg",
+                "height": "1%",
+                ".card-img": {
+                  "position": "relative",
+                  "overflow": "hidden",
+                  "border-radius": "0",
+                  "z-index": "1",
+                  "img": {
+                    "transition": "all .5s"
+                  },
+                  ".img-text": {
+                    "position": "absolute",
+                    "padding": ".6rem",
+                    "top": "1.5rem",
+                    "left": "1.5rem",
+                    "z-index": "1",
+                    "border-radius": "100px",
+                    "background-color": "@dateBg",
+                    "span": {
+                      "display": "block"
+                    }
+                  }
+                },
+                ".card-box": {
+                  "padding": "1.5rem"
+                }
+              }
+            },
+            ".mbr-card-text": {
+              "margin": "0"
+            },
+            ".mbr-card-text, .mbr-section-btn": {
+              "color": "#000000"
+            }
+          },
+          "_name": "extFeatures26",
+          "_sourceTheme": "digitalm4",
+          "_customHTML": "<section class=\"extFeatures\" group=\"Features\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Cards Titles\" name=\"showCardTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Cards Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Captions\" name=\"showCaptions\">\n        <input type=\"color\" title=\"Caption BG\" name=\"dateBg\" value=\"#232323\" condition=\"showCaptions\">\n        <input type=\"color\" title=\"Card Bg\" name=\"cardBg\" value=\"#f3f3f3\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay&&bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h2 class=\"mbr-section-title align-left mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n            <span style=\"font-weight: normal;\">Business</span>\n        </h2>\n\n        <p class=\"mbr-section-subtitle align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde et repellat fuga sed impedit hic, nesciunt, soluta ratione facere ad nisi deleniti magni. Dolore libero, saepe repudiandae ex ipsa natus.\n        </p>\n        <div class=\"row justify-content-center align-items-start\">\n            \n            <div class=\"card px-3 py-4\" mbr-class=\"{'col-md-6 col-lg-3':cardsAmount=='4',\n                             'col-md-4':cardsAmount=='3',\n                             'col-md-6':cardsAmount<3}\">\n                <div class=\"card-wrapper flip-card\">\n                    <div class=\"card-img\">\n                        <div mbr-text class=\"img-text mbr-text mbr-fonts-style align-center mbr-white\" mbr-theme-style=\"display-4\" data-app-selector=\".img-text\" mbr-if=\"showCaptions\">\n                             BUSINESS\n                        </div>\n                    </div>\n                    <div class=\"card-box\" mbr-if=\"showText || showButtons || showCardTitle\">\n                        <h3 class=\"mbr-title mbr-fonts-style mbr-bold mbr-black align-center\" mbr-text mbr-theme-style=\"display-5\" data-app-selector=\".mbr-title\" mbr-if=\"showCardTitle\">\n                            Email us</h3>\n                        <p class=\"mbr-card-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-card-text, .mbr-section-btn\">Send us the details of your waste and we'll arrange a time to pickup.</p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-class=\"{'pt-3':showCardTitle || showText}\"><a href=\"mailto:admin@bendigopcclinic.com.au\" class=\"btn btn-md btn-primary\" data-app-placeholder=\"Type Text\">Email us</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card px-3 py-4\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-md-6 col-lg-3':cardsAmount=='4',\n                             'col-md-4':cardsAmount=='3',\n                             'col-md-6':cardsAmount<3}\">\n                <div class=\"card-wrapper flip-card\">\n                    <div class=\"card-img\">\n                        <div mbr-text class=\"img-text mbr-text mbr-fonts-style align-center mbr-white\" mbr-theme-style=\"display-4\" data-app-selector=\".img-text\" mbr-if=\"showCaptions\">\n                             BUSINESS\n                        </div>\n                    </div>\n                    <div class=\"card-box\" mbr-if=\"showText || showButtons || showCardTitle\">\n                        <h3 class=\"mbr-title mbr-fonts-style mbr-bold mbr-black align-center\" mbr-text mbr-theme-style=\"display-5\" data-app-selector=\".mbr-title\" mbr-if=\"showCardTitle\">\n                            Send an enquiry</h3>\n                        <p class=\"mbr-card-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-card-text, .mbr-section-btn\">\n                            Have questions? Send us an enquiry and we'll answer anything you need.</p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-class=\"{'pt-3':showCardTitle || showText}\"><a href=\"page6.html\" class=\"btn btn-md btn-primary\" data-app-placeholder=\"Type Text\">Send Enquiry</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card px-3 py-4\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-md-6 col-lg-3':cardsAmount=='4',\n                             'col-md-4':cardsAmount=='3',\n                             'col-md-6':cardsAmount<3}\">\n                <div class=\"card-wrapper flip-card\">\n                    <div class=\"card-img\">\n                        <div mbr-text class=\"img-text mbr-text mbr-fonts-style align-center mbr-white\" mbr-theme-style=\"display-4\" data-app-selector=\".img-text\" mbr-if=\"showCaptions\">\n                             BUSINESS\n                        </div>\n                    </div>\n                    <div class=\"card-box\" mbr-if=\"showText || showButtons || showCardTitle\">\n                        <h3 class=\"mbr-title mbr-fonts-style mbr-bold mbr-black align-center\" mbr-text mbr-theme-style=\"display-5\" data-app-selector=\".mbr-title\" mbr-if=\"showCardTitle\">\n                            Speak to us directly</h3>\n                        <p class=\"mbr-card-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-card-text, .mbr-section-btn\">\n                            Call Summer directly and discuss what you have and need to happen.</p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-class=\"{'pt-3':showCardTitle || showText}\"><a href=\"tel:0466040720\" class=\"btn btn-md btn-primary\" data-app-placeholder=\"Type Text\">Call Summer 0466 040 720</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card px-3 py-4\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'col-md-6 col-lg-3':cardsAmount=='4',\n                             'col-md-4':cardsAmount=='3',\n                             'col-md-6':cardsAmount<3}\">\n                <div class=\"card-wrapper flip-card\">\n                    <div class=\"card-img\">\n                        <div mbr-text class=\"img-text mbr-text mbr-fonts-style align-center mbr-white\" mbr-theme-style=\"display-4\" data-app-selector=\".img-text\" mbr-if=\"showCaptions\">\n                             BUSINESS\n                        </div>\n                    </div>\n                    <div class=\"card-box\" mbr-if=\"showText || showButtons || showCardTitle\">\n                        <h3 class=\"mbr-title mbr-fonts-style mbr-bold mbr-black align-center\" mbr-text mbr-theme-style=\"display-5\" data-app-selector=\".mbr-title\" mbr-if=\"showCardTitle\">\n                            <span style=\"font-weight: normal;\">LOREM</span>\n                        </h3>\n                        <p class=\"mbr-card-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-card-text, .mbr-section-btn\">\n                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.\n                        </p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-class=\"{'pt-3':showCardTitle || showText}\">\n                            <a href=\"https://mobiri.se\" class=\"btn btn-md btn-primary\">Read More</a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "extFeatures26-46",
+          "_isUserblock": true,
+          "_cid": "sj3qV68Mxw",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4661,7 +4731,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
