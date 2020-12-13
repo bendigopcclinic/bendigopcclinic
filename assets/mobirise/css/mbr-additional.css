@@ -4622,8 +4622,8 @@ hr {
   color: #000000;
 }
 .cid-siXmNEK7e2 {
-  padding-top: 75px;
-  padding-bottom: 15px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #f3f3f3;
 }
 .cid-siXmNEK7e2 .row {
@@ -4723,6 +4723,56 @@ hr {
 }
 .cid-siXobpECKE .btn:hover {
   color: #ffffff !important;
+}
+.cid-sj3hAUdqa5 {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #f9f9f9;
+}
+.cid-sj3hAUdqa5 .card-img {
+  padding: 0 0 3rem;
+}
+.cid-sj3hAUdqa5 .card-days {
+  background-color: #d30400;
+  border-radius: 5px;
+}
+.cid-sj3hAUdqa5 .card-days .schedule > ul {
+  display: block;
+  margin: 0 auto;
+  padding-left: 0;
+  list-style: none;
+}
+.cid-sj3hAUdqa5 .card-days .schedule > ul li {
+  border-top: 1px solid;
+  padding-top: 10px;
+}
+.cid-sj3hAUdqa5 .card-days .schedule > ul li:first-child {
+  border-top: none;
+}
+.cid-sj3hAUdqa5 .card-days .schedule > ul li span {
+  float: right;
+  text-align: right;
+  padding-left: 0.5rem;
+}
+.cid-sj3hAUdqa5 .card-days .schedule > ul li:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+@media (min-width: 992px) {
+  .cid-sj3hAUdqa5 .my-col {
+    -webkit-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-sj3hAUdqa5 .card-title {
+  color: #000000;
+}
+.cid-sj3hAUdqa5 .mbr-text,
+.cid-sj3hAUdqa5 .mbr-section-btn {
+  color: #272727;
 }
 .cid-siXpl6SFKe {
   padding-top: 30px;
